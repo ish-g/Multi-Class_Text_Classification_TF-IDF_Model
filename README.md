@@ -54,6 +54,7 @@ Follow these steps to set up the project locally:
 
 5. Enjoy! 🎉 Open your web browser and go to http://localhost:8501 to interact with the sentiment analysis app.
 
+
 ## 📊 Model Overview
 
 We use a BaggingClassifier with an SVC (Support Vector Classifier) base estimator to perform sentiment analysis. This combination offers high accuracy, robustness against overfitting, and improved generalization.
@@ -88,3 +89,8 @@ Feel free to open issues, submit pull requests, and contribute to enhancing this
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 📧 Contact
+If you have any questions, feel free to reach out!
+
+Happy Coding! 😊
